@@ -6,3 +6,4 @@ git checkout -b update-logo
 git add .
 git commit -a
 gh pr create
+gh pr merge
